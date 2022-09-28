@@ -1,6 +1,3 @@
-### Hi there 👋
+[![jakubsob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakubsob&count_private=true&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-- 🔭 I’m currently working on Shiny app `functionExplorer` which wraps `functiondepends` package for convenient usage
-- 🌱 I’m currently learning JavaScript to create better R Shiny apps
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakubsob&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
