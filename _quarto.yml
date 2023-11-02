@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jakub Sobolewski"
+  navbar:
+    left:
+      # - href: index.qmd
+      #   text: Home
+      - href: blog.qmd
+        text: Blog
+
+format:
+  html:
+    theme:
+      light: theme.scss
+      dark: darkly
+    css: styles.css
+    toc: true

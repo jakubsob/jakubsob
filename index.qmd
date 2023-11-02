@@ -1,0 +1,16 @@
+---
+title: ""
+format: html
+# about:
+#   template: jolla
+#   image: assets/img/author.jpg
+#   links:
+#     - icon: linkedin
+#       text: LinkedIn
+#       href: https://www.linkedin.com/in/jakub-sobolewski-r/
+#     - icon: github
+#       text: Github
+#       href: https://github.com/jakubsob
+---
+
+<img class="about-image round" style="height: 15em;" src="assets/img/author_full_nobg.png" >
