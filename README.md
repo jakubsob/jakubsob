@@ -1,5 +1,5 @@
-## Stats
+I'm a Senior Engineer @ [Appsilon](https://www.appsilon.com).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakubsob&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+I'm a practicioner of using tests to drive software development.
 
-[![jakubsob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakubsob&count_private=true&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+I share what I learn on [**Building quality with testing**](https://jakubsob.github.io/) blog.
