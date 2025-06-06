@@ -15,4 +15,4 @@ Check out [gists](https://gist.github.com/jakubsob) I use in my projects, maybe 
 
 ---
 
-I'm also working on a book [Automated Testing in R](https://jakubsob.github.io/automated-testing-in-r/).
+I'm also working on a [Automated Testing in R](https://jakubsob.github.io/automated-testing-in-r/) book .
